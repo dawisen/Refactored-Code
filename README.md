@@ -4,4 +4,4 @@ This code was refactored to create a website that meets accessibility criteria a
 
 I changed several div tags into header, figure, main, section, aside, and footer to divide the webpage into its corresponding sections.
 I added alt text and title text to images on the webpage for improved accessibility and search engine optimization.
-I reformatted the html so that it looks "cleaner" to improve readability. 
+I reformatted the html so that it looks "cleaner" to improve readability. This is a test.
